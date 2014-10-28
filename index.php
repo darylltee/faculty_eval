@@ -150,6 +150,10 @@ document.getElementById("sum3").innerHTML = totalsD[secc];
 </script>
 
 <body>
+
+
+<!-- This is a test -->
+
 <form method="post">
 <h2 align="center">The QCE of the NBC NO.461<br>
 Instrument for instruction/Teaching Effectiveness</h2>
