@@ -153,6 +153,9 @@ document.getElementById("sum3").innerHTML = totalsD[secc];
 
 
 <!-- This is a test -->
+<!-- Need to start for the defense -->
+
+
 
 <form method="post">
 <h2 align="center">The QCE of the NBC NO.461<br>
